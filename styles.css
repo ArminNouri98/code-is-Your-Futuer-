@@ -1,0 +1,18 @@
+body{
+    background-color:   #f8dcb5  ;
+}
+H1{
+     font-size: 2.2rem;
+  margin: 0;
+  font-weight: 600;
+  line-height: 1.15;
+text-shadow: 0.5px 3px 2px   #b4b4b4 ;
+}
+H3{
+     font-size: 1.4rem;
+  margin: 0.5rem 0;
+  line-height: 1.15;
+  font-weight: 200;
+color: #b4b4b4;
+  
+}
