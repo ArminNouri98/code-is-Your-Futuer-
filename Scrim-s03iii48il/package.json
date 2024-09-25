@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s03iii48il",
+  "description": "https://v2.scrimba.com/s03iii48il",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
